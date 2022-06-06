@@ -1,9 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-
-- I’m Abhishek Anuj
-- I’m interested in web development, data science and competetive programming
+- Application Developer at Thoughtworks
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekanuj26&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!-- Actual text -->
